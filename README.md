@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Deepak Gupta and I'm a Web Developer, from Rajasthan</h2>
-//new align//
 ###
 
 <div align="center">
